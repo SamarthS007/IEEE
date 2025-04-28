@@ -3,7 +3,7 @@ import App from '../App';
 import HomeLayout from '../components/HomeLayout';
 import DiodeXcelerate from '../pages/events/DiodeXcelerate';
 import Embedathon from '../pages/events/Embedathon';
-import Impulse from '../pages/events/impulse';
+import Impulse from '../pages/events/Impulse';
 import Electrica from '../pages/events/Electrica';
 
 const router = createBrowserRouter([
