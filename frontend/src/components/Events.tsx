@@ -1,44 +1,43 @@
-import { Link } from 'react-router-dom';
 import './Events.css';
 
 const Events = () => {
-  const events = [
-    {
-      title: 'DiodeXcelerate',
-      description: 'A technical workshop focused on electronics and circuit design.',
-      link: '/events/diodexcelerate'
-    },
-    {
-      title: 'Embedathon',
-      description: 'A hackathon focused on embedded systems and IoT solutions.',
-      link: '/events/embedathon'
-    },
-    {
-      title: 'Athenaeum',
-      description: 'A technical paper presentation competition.',
-      link: '/events/athenaeum'
-    },
-    {
-      title: 'Impulse',
-      description: 'A project showcase and competition event.',
-      link: '/events/impulse'
-    },
-    {
-      title: 'Electrika',
-      description: 'An electrical engineering focused technical symposium.',
-      link: '/events/electrika'
-    },
-    {
-      title: 'Skyward Expedition',
-      description: 'A drone and aerospace technology workshop.',
-      link: '/events/skyward'
-    },
-    {
-      title: 'Robotrix',
-      description: 'A robotics competition and workshop.',
-      link: '/events/robotrix'
-    }
-  ];
+  // const events = [
+  //   {
+  //     title: 'DiodeXcelerate',
+  //     description: 'A technical workshop focused on electronics and circuit design.',
+  //     link: '/events/diodexcelerate'
+  //   },
+  //   {
+  //     title: 'Embedathon',
+  //     description: 'A hackathon focused on embedded systems and IoT solutions.',
+  //     link: '/events/embedathon'
+  //   },
+  //   {
+  //     title: 'Athenaeum',
+  //     description: 'A technical paper presentation competition.',
+  //     link: '/events/athenaeum'
+  //   },
+  //   {
+  //     title: 'Impulse',
+  //     description: 'A project showcase and competition event.',
+  //     link: '/events/impulse'
+  //   },
+  //   {
+  //     title: 'Electrika',
+  //     description: 'An electrical engineering focused technical symposium.',
+  //     link: '/events/electrika'
+  //   },
+  //   {
+  //     title: 'Skyward Expedition',
+  //     description: 'A drone and aerospace technology workshop.',
+  //     link: '/events/skyward'
+  //   },
+  //   {
+  //     title: 'Robotrix',
+  //     description: 'A robotics competition and workshop.',
+  //     link: '/events/robotrix'
+  //   }
+  // ];
 
   return (
     // <section className="events-section">
